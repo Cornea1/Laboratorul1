@@ -1,0 +1,13 @@
+  c#         5185bac SHA1-checsum
+  c++        098fb9d SHA1-checsum
+  go         ff82966 SHA1-checsum
+  java       e0062bd SHA1-checsum
+  javaScript 4090e96 SHA1-checsum
+  kotlin     1064240 SHA1-checsum
+  php        ba80d28 SHA1-checsum
+  python     b9fa9ff SHA1-checsum
+  rust       d6f34ad SHA1-checsum
+  sql        65e5a11 SHA1-checsum
+
+
+
